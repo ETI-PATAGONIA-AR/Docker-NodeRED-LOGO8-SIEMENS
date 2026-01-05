@@ -1,5 +1,7 @@
 # Ejemplo de como implementar DOCKER + NodeRED + Dashboard + LOGO8 de SIEMENS
 
+https://github.com/user-attachments/assets/92630cd7-14a9-4ac7-8f1b-00438b766c16
+
 ## 1_Para instalar Docker Compose en Windows, sigue estos pasos:
 
 * Abre tu navegador web y visita el sitio web oficial de Docker ( https://www.docker.com/products/docker-desktop/ )
@@ -123,7 +125,4 @@ https://www.youtube.com/watch?v=8-o8Oo7CsMM
 
 https://www.prometec.net/jugando-con-nodered-y-dashboard/ + https://www.youtube.com/watch?v=l3CTWBKJWR0
 
-
-
-
-
+https://www.youtube.com/watch?v=O6SegqIr7V8
