@@ -126,3 +126,8 @@ https://www.youtube.com/watch?v=8-o8Oo7CsMM
 https://www.prometec.net/jugando-con-nodered-y-dashboard/ + https://www.youtube.com/watch?v=l3CTWBKJWR0
 
 https://www.youtube.com/watch?v=O6SegqIr7V8
+
+---
+
+### Autor
+prof.martintorres@educ.ar
